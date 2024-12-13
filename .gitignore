@@ -3,3 +3,7 @@ node_modules
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+functions.zip
+layer/node_modules
+layer/nodejs.zip
+.DS_Store
